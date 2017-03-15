@@ -7,4 +7,5 @@ http://amzn.to/2jb7cqN
  to get your rc car or drone up and running quickly:
 https://github.com/adafruit/Adafruit-Motor-HAT-Python-Library
 
+Modded for python 3
 custom code featured in: https://myevilgeniusblog.wordpress.com/2017/01/17/motor-bliss/
