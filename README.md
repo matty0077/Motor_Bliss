@@ -8,4 +8,4 @@ http://amzn.to/2jb7cqN
 https://github.com/adafruit/Adafruit-Motor-HAT-Python-Library
 
 Modded for python 3
-custom code featured in: https://sinistergenius.com/2017/01/17/motor-bliss/
+featured in: https://sinistergenius.com/2017/04/13/motorbliss2/
