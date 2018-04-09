@@ -8,4 +8,8 @@ http://amzn.to/2jb7cqN
 https://github.com/adafruit/Adafruit-Motor-HAT-Python-Library
 
 Modded for python 3
+
+a quick test should look like this; https://youtu.be/9uV8_Laf57s
+
+
 featured in: https://sinistergenius.com/2017/03/10/motor-bliss/
